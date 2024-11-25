@@ -9,7 +9,7 @@ Apasionada por la tecnología y entusiasta de transformar datos en información 
 💓 Me apasiona descubrir formas innovadoras de analizar y visualizar datos para mejorar la toma de decisiones. Resolver problemas y aplicar lógica a través de programación es mi mayor motivación.  
 
 ## 📫 ¿Quieres contactar conmigo?  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Javiera%20Mondaca-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/javieramondaca)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Javiera%20Mondaca-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/javiera-mondaca-godoy)  
 [![Email](https://img.shields.io/badge/Email-javiera.mondaca.g%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:javiera.mondaca.g@gmail.com)  
 
 ---
