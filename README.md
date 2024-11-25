@@ -1,3 +1,5 @@
+![Javiera Mondaca - Data Analyst](https://github.com/Jaavimondaca/Jaavimondaca/blob/main/Javiera%20Mondaca.png)
+
 # 👩‍💻 Sobre mí  
 
 Apasionada por la tecnología y entusiasta de transformar datos en información estratégica, estoy dando forma a mi carrera como **Data Analyst**.  
